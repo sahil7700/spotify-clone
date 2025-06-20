@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+    height: 65px;
+    color: white;
+    align-items: center;
+}
+
+img{
+    width: 44px;
+}
+
+.brand{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+}
+
+nav ul li{
+    padding: 0 12px;
+}
+
+.brand img{
+    padding: 0 8px;
+}
